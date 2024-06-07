@@ -1,0 +1,6 @@
+
+- (done) Api anbinden und loggen
+- (done) Api Daten in die Datenbank speichern und in der App Inspection sehen
+- (done) Daten aus der Datenbank ins Fragment laden(per Observer) und loggen
+- UI bauen
+
